@@ -18,7 +18,7 @@ Our purpose is to develop sustainable, scalable and user-friendly technology sol
 - **Events Calendar**: We are developing a comprehensive, organised calendar with a view of all events happening at Ashoka University. This will be updated automatically based on emails received by the student body, and automatically send invitations to concerned event organisers. 
 
 ## How to Contribute
-Interested in contributing? [Read more here.](CONTRIBUTING.md)
+Interested in contributing? [Read more here.](../CONTRIBUTING.md)
 
 ## Tech Stack
 - Frontend: HTML, CSS, Embedded JavaScript (EJS)
