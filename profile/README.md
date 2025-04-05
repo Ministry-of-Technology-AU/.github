@@ -1,4 +1,4 @@
-![Cover Image](.//cover-image.png)
+![Cover Image](../cover-image.png)
 # Ministry of Technology @ Ashoka University Student Government
 
 ## Table of Contents
