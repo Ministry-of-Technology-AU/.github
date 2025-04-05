@@ -1,4 +1,5 @@
-# Ashoka Technology Ministry
+![Cover Image](.//cover-image.png)
+# Ministry of Technology @ Ashoka University Student Government
 
 ## Table of Contents
 - [About Us](#about-us)
